@@ -19,7 +19,7 @@
 
 ---
 
-## 🗺️ 2026 Learning Roadmap (DevSecOps Path)
+## Learning Roadmap (DevSecOps Path)
 - [x] **Git & GitHub Fundamentals** ➔ Learning branch management, commits, and remote repositories.
 - [/] **TypeScript Mastery** ➔ Transitioning from JS to typed structures, interfaces, and scalable code.
 - [ ] **Linux & Scripting** ➔ Next step: Mastering the command line and Bash automation.
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Technical Ecosystem & Tech Stack
+## Tech Stack
 
 <table width="100%">
   <tr>
@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
